@@ -1,0 +1,22 @@
+.btn{
+    color: rgb(8, 8, 8);
+    background-color: darkslategrey;
+    width: 47px;
+    margin: 5px;
+}
+.pen{
+    color: rgb(226, 43, 73);
+    background-color: darkslategrey;
+    margin: 5px;
+    width: 98px;
+}
+body{
+    background-color: rgb(76, 150, 163);
+    
+} 
+.main{
+    width: 250px;
+    height: 170;
+    margin: 0 auto;
+    border: black solid 9px;
+}
